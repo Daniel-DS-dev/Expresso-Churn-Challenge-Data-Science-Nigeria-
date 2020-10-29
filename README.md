@@ -4,7 +4,7 @@
 
 ### Main Objective: Develop a predictive model that determines the likelihood for a customer to churn, i.e. stop purchasing airtime and data from Expresso.
 ### Evaluation Metric: Log loss
-### Machine Learning Models/Algorithms Used: This solution was built on the stack of 3 models (CatBoost, LGBM and XGBoost).
+### Machine Learning Models/Algorithms Used: Random Forest, XGBoost, Logistic Regression, Gradient Boost, LGBM and CatBoost Algorithm. Catboost algorithm gave me the best result.
 ## This solution gave me a log loss score of: 0.247057826917659.
 
 * Expresso is an African telecommunications company that provides customers with airtime and mobile data bundles. The objective of this challenge is to develop a machine learning model to predict the likelihood of each Expresso customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.
